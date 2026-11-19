@@ -17,9 +17,17 @@
 
 </div>
 
+<div align="Left">
+  
+# Check out my Website / Other Projects:
+
+## [EliteSoftware Tech Co. Landing Page - WIP](https://main.elitesoftwaretech.cc).
+
+## [PidgeWin32 | WindHawk Fork/Alternative](https://pidgewin32.elitesoftwaretech.cc).
 
 
-# 𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄
+<div align="center">
+𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄
 
 <div align="Left">
 
@@ -92,9 +100,4 @@ Expect the unexpected. Embrace the chaos. And have fun!
 <div align="center"> <a href='https://i.postimg.cc/DZTjtNg1/Elite-Software-Company-Simulator-LOGO.png' target='_blank'><img src='https://i.postimg.cc/DZTjtNg1/Elite-Software-Company-Simulator-LOGO.png' border='0' alt='Elite-Software-Client' width="250"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href='https://i.postimg.cc/85mKDbX8/Elite-Software-Company-Logo.png' target='_blank'><img src='https://i.postimg.cc/85mKDbX8/Elite-Software-Company-Logo.png' border='0' alt='Elite-Software-LOGO' width="250"></a> </div>
 
 ---
-<div align="Left">
-# Check out my Website:
-[EliteSoftware Tech Co Landing Page WIP]().
-
-## [EliteSoftware Tech Co. Landing Page - WIP](https://main.elitesoftwaretech.cc).
 
